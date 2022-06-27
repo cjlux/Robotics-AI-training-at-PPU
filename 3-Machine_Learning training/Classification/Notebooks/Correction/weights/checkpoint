@@ -1,0 +1,2 @@
+model_checkpoint_path: "conv1_init"
+all_model_checkpoint_paths: "conv1_init"
