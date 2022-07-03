@@ -1,2 +1,2 @@
-model_checkpoint_path: "conv1_trained"
-all_model_checkpoint_paths: "conv1_trained"
+model_checkpoint_path: "conv-1_trained"
+all_model_checkpoint_paths: "conv-1_trained"
